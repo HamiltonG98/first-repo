@@ -13,5 +13,10 @@
 		"name": "Hyundai Tucson",
 		"hoursepower": "150HP",
 		"color": "blue" 
+  },
+  {
+		"name": "Toyota Hilux",
+		"hoursepower": "180HP",
+		"color": "white"
 	}
 ]
