@@ -23,5 +23,10 @@
 		"name": "Suzuki Baleno",
 		"hoursepower": "100HP",
 		"color": "navy blue"
+	},
+	{
+		"name": "Kia Rio",
+		"hoursepower": "88HP",
+		"color": "red"
 	}
 ]
