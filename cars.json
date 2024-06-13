@@ -3,5 +3,10 @@
 		"name": "Ferrari 1",
 		"hoursepower": "130HP",
 		"color": "yellow"
+	},
+	{
+		"name": "Nissan GT",
+		"hoursepower": "200HP",
+		"color": black
 	}
 ]
