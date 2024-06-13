@@ -7,6 +7,11 @@
 	{
 		"name": "Nissan GT",
 		"hoursepower": "200HP",
-		"color": black
+		"color": "black"
+	},
+	{
+		"name": "Hyundai Tucson",
+		"hoursepower": "150HP",
+		"color": "blue" 
 	}
 ]
